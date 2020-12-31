@@ -55,3 +55,9 @@ function renderAvatar(user) {
         $('.layui-nav-img').hide();
     }
 }
+// var arr =["1","2","3"];
+// var newarr = [];
+// for(var i = 0;i < arr.length;i++) {
+//     newarr.push(parseInt(arr[i]));
+// }
+// console.log(newarr);
